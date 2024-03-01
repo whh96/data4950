@@ -1,1 +1,1 @@
-# data4950
+# This project analyzes the distribution of self reported mental health scores of medical school students and implements machine learning models to determine subgroups of students at risk for decreases mental wellbeing.
